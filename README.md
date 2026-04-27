@@ -1,10 +1,10 @@
 
 ## Inventory Management System for small retail shop (Java)
 
-## Description
+# Description
 This is a simple Inventory Management System developed in Java.  It allows users to manage products in a small retail store.
 
-## Features
+# Features
 The system should allow users to:
 1. Add products to the inventory
 2. Update product quantities
