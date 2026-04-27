@@ -1,4 +1,4 @@
-#Inventory Management System for small retail shop (Java)
+###Inventory Management System for small retail shop (Java)
 
 ## Description
 This is a simple Inventory Management System developed in Java.  It allows users to manage products in a small retail store.
